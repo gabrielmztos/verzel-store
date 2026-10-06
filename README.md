@@ -77,4 +77,4 @@ As evidências dos testes manuais e de API estão organizadas separadamente e id
 
 A IA foi utilizada como apoio durante o desenvolvimento do projeto, principalmente para esclarecer conceitos de Playwright, auxiliar na estruturação dos testes e revisar a documentação.
 
-A implementação, execução dos testes, análise dos resultados e identificação dos defeitos foram realizadas e validadas pelo candidato.
+A implementação, execução dos testes, análise dos resultados e identificação dos defeitos foram realizadas e validadas por mim.
